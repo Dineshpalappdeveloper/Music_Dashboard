@@ -38,7 +38,6 @@ const Header = () => {
             </div>
 
             <div className="flex items-center space-x-8">
-                {/* Tabs */}
                 <div className="flex items-center space-x-2">
                     <button className="px-4 py-2 text-yellow-600 bg-yellow-100 rounded-full text-sm">All</button>
                     <button className="px-4 py-2 text-gray-600 hover:bg-gray-200 rounded-full text-sm">Listening</button>
